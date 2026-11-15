@@ -1,5 +1,6 @@
-<img width="1624" height="1069" alt="gefitinib_prediction_card png" src="https://github.com/user-attachments/assets/5f9d1541-edb6-44a4-a557-6f53ff733ad3" />
 # 🧬 End-to-End QSAR Modeling Pipeline for EGFR (CHEMBL203) Bioactivity Prediction
+
+<img width="1624" height="1069" alt="gefitinib_prediction_card png" src="https://github.com/user-attachments/assets/5f9d1541-edb6-44a4-a557-6f53ff733ad3" />
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![RDKit](https://img.shields.io/badge/RDKit-Cheminformatics-green.svg)](https://www.rdkit.org/)
