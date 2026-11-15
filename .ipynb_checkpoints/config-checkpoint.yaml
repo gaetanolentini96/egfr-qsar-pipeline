@@ -1,0 +1,5 @@
+project:
+  name: "chembl-qsar-pipeline"
+  target_chembl_id: "CHEMBL203"  # EGFR (Epidermal Growth Factor Receptor)
+  standard_type: "IC50"
+  activity_threshold_nM: 1000.0  # Threshold to define active molecules (<= 1000 nM)
