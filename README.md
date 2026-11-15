@@ -66,6 +66,4 @@ fp = np.array(AllChem.GetMorganFingerprintAsBitVect(mol, radius=2, nBits=2048))
 prediction = model.predict([fp])[0]
 probability = model.predict_proba([fp])[0][1]
 
-print(f"Active Prediction: {'Active' if prediction == 1 else 'Inactive'} (Probability: {pro
-
-bability:.4f})")lib                     # Project documentation
+print(f"Active Prediction: {'Active' if prediction == 1 else 'Inactive'} (Probability: {probability:.4f})")
