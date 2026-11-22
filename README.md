@@ -1,5 +1,12 @@
 # 🧬 End-to-End QSAR Modeling Pipeline for EGFR (CHEMBL203) Bioactivity Prediction
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://egfr-qsar-pipeline-j3reqpn7hy2wxbzaxg3vhj.streamlit.app/)
+
+> **🚀 Live Interactive Demo:** Test any SMILES string directly in your browser using the **[EGFR Bioactivity Predictor Web App](https://egfr-qsar-pipeline-j3reqpn7hy2wxbzaxg3vhj.streamlit.app/)**.
+
+### Example Output (Gefitinib Reference Inhibitor)
+![Gefitinib Prediction Card](gefitinib_prediction_card.png)
+
 <img width="1624" height="1069" alt="gefitinib_prediction_card png" src="https://github.com/user-attachments/assets/5f9d1541-edb6-44a4-a557-6f53ff733ad3" />
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
